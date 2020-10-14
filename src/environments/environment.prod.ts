@@ -1,7 +1,7 @@
 export const environment = {
   production: true,
   mapbox: {
-    accessToken: 'pk.eyJ1IjoiY3BvbG9wZXJlaXJhY2wiLCJhIjoiY2tmc2QwYnczMDhkYTJybTZxdjE2cGp2ciJ9.dnN99V3A_-3_LKRQG27qXg',
+    accessToken: 'your_mapbox_api_key',
     country: 'CL',
     addressesLimit: '5',
     zoom: 12
